@@ -1,10 +1,10 @@
 # DialogIQ Open-source | AI Application Demonstrations
 
-[![DialogIQ | AI UI Demos](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/e5562ba0-daf0-11ee-b551-db727fbed0f6-Screen_Shot_2024_03_05_at_20.00.04.png)](https://fyr.omtanke.studio)
+[![DialogIQ | AI UI Demos](https://ff710beada59320e8783c29d687d26cc0660165d67e1c5a0f935678-apidata.googleusercontent.com/download/storage/v1/b/dialogiq-bucket-test/o/dialogiq-app.png?jk=AS1gM8PJa4WC4uA9s_Gd4fi6PRbVHJocfdSkwedX1XKHMYTylMAGcJpY-8KEVePjr6vGGA-FR8vyRpcrUHWFRWJpKQugL7AYl81RTHwfe4xVYliQdReAxGfPUzEmOl9e4xVJkVOV7c62i4FXJ5jStFTS87DQu-RXrD-GUEaYo04xNn_DTwrQfhZI2ZeJ8MelkqQ-5S2Uy2MsEDUl9qlaHgsOtFj_vocT7Kq4alzsfkgkHUJOIiydrsegFpsPwTQBC8_Mo9bbw25Lcrb5Av9Dl9waNbqZTm-G7QZQBg8X-AO0f5nv4T6tYqtQaXHIOivplyqc1uK7iXiDH8HpGuZ2bvpQVQ5VjScwA9EXppmEYpvCwF10zMHMxIR75BVn6M_RwrqWo9EZZKaYXW38ywMkzghyAPCTKC-ppmkqoliwUU6rbP0Gwj90Ky1EWLOPC7Rr7Tbh8M7UDQmX6xCsZiZP21t2GYlIIskPoB66j73RzRjgDP7opzdAFW-YQgGnjzMuYF6dlIWvltnwuXD7PNLgfgdOzTUkK69t7hW2dKqkHGolyFJfe2_UDUkPeqZ7t4mrgQ0Ji-x9Ewm4wTZe4EDCb1YiHYmI-e24F0br9PcC5zXinD7qCza_C3IRog-SRyRDeSHKF8FeoRkuMYm-zwHSmJhKsCFe1dyI6QLh8vAoj2e-KyD0iu0k_9YocojFh-B_aV-DgIKcBtRFMNU3xM84HkLHK3Q_FEYNioLChTTgFFn_OrMyEJj68mYonXwfE9w_iBgzGQ7vOnfrjIjME_-u-WF6NyZapJH-AAmcbNDagpUg7ma-FsDhkheBSs_53Hoi6faSt0y5OxJSViVy2oQPLnKp0JgAjDym-ltmBSt4dwUAy2LpHEz2fpAIC2saPiOHt8flC8dXowz9dh-P3bnrUlcz_1Q1ApGXVoleKOEWIKEDnb6hYJL84nq4hkofGzsJLRNeOshKJuT1xWASMRvDwgQ6cgf4CzTFF5M_t21Q0C53T8CVoVrMm0VHfFKJ40x7jrMrC1vPCLONhQIBYPawtZfc4ZuwGtPcDDMa6DHyARURyOMCIpDTmuzclt15cchPzRzVBYlPtFHUIum-cuGouUff-V5O9PF23GP1J_e48yKynTcDVgbnJD91Od65ZoAvJrfnyym89pYj_VqrY3aQ45Hqrzn1whhSZ7jWmhef9Dd9y-A9FrTjfSdjpjV-w64sWXN_qq2GnHebX2lXT6nh5TsE3bLhVq-qSrDZxrXWMDjf31Ou26-RREpN-sonYRn66LKWRCPb0LCfhF44KC-06IeJr9FVpidc_HK7T_WNOYxHnNlmvS8YJ_HMAT81S--iVjjfcXzYB5lzfz6EaVWKx20ZlP8d8uGp4CyBr0LlQcb8ql90A0rdskFsAcgt03ndpRFYgZRve6pvY9ke019vPTGRZxx5YbQ&isca=1)](https://fyr.omtanke.studio)
 
 [Live Demo](https://dialogiq.co)
 
-This is a reusable UI that you can use for your AI project. Tutorials will be available soon on the [DialogIQ YouTube](https://www.youtube.com/@DialogIQ) channel and [our AI learning platform](https://dialogiq.co/).
+This is a reusable UI that you can use for your AI project. Tutorials will be available soon on the [DialogIQ YouTube](https://www.youtube.com/@dialogiq65) channel and [our AI learning platform](https://dialogiq.co/).
 
 Some applications available
 
