@@ -1,8 +1,8 @@
-export const PROTONX_LOGO = {
-	DARK: 'https://storage.googleapis.com/protonx-cloud-storage/protonx-mle/Logo-SVG-white-horizontal.svg',
-	LIGHT: 'https://storage.googleapis.com/protonx-cloud-storage/cropped-cropped-ProtonX-logo-1-1-300x100.png',
+import { LightLogoDialog, DarkLogoDialog } from '@/assets/images';
+export const DIALOGIQ_LOGO = {
+	DARK:	DarkLogoDialog,
+	LIGHT: LightLogoDialog
 };
-
 export const getHOST = () => {
 	return process.env.REACT_APP_STAGE === 'production'
 		? 'http://localhost:5001'

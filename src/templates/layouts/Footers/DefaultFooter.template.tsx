@@ -9,7 +9,7 @@ const DefaultFooterTemplate = () => {
 				<div />
 			</FooterLeft>
 			<FooterRight className='text-zinc-500'>
-				<span>ProtonX</span>
+				<span>DialogIQ</span>
 			</FooterRight>
 		</Footer>
 	);

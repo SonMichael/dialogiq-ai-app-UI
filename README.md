@@ -1,19 +1,19 @@
-# ProtonX Open-source | AI Application Demonstrations
+# DialogIQ Open-source | AI Application Demonstrations
 
-[![ProtonX | AI UI Demos](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/e5562ba0-daf0-11ee-b551-db727fbed0f6-Screen_Shot_2024_03_05_at_20.00.04.png)](https://fyr.omtanke.studio)
+[![DialogIQ | AI UI Demos](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/e5562ba0-daf0-11ee-b551-db727fbed0f6-Screen_Shot_2024_03_05_at_20.00.04.png)](https://fyr.omtanke.studio)
 
-[Live Demo](https://protonx.io/demos)
+[Live Demo](https://dialogiq.co)
 
-This is a reusable UI that you can use for your AI project. Tutorials will be available soon on the [ProtonX YouTube](https://www.youtube.com/@ProtonX) channel and [our AI learning platform](https://protonx.io/).
+This is a reusable UI that you can use for your AI project. Tutorials will be available soon on the [DialogIQ YouTube](https://www.youtube.com/@DialogIQ) channel and [our AI learning platform](https://dialogiq.co/).
 
 Some applications available
 
-- Chatbot 
+- Chatbot
 - Image Generation
 - Audio Generation
 - Code Generation
 
-<img src="https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/dc832af0-dc67-11ee-8d67-a3f51c84003e-Screen_Shot_2024_03_07_at_16.48.18.png" width=600 > 
+<img src="https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/dc832af0-dc67-11ee-8d67-a3f51c84003e-Screen_Shot_2024_03_07_at_16.48.18.png" width=600 >
 
 <img src="https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/2a899fe0-daf1-11ee-b2fe-853e9dc23096-Screen_Shot_2024_03_05_at_20.00.47.png" width=600>
 

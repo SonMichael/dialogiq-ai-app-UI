@@ -7,7 +7,7 @@ const HomePageHeaderTemplate = () => {
 	return (
 		<Header>
 			<HeaderLeft>
-				<Breadcrumb currentPage='ProtonX' />
+				<Breadcrumb currentPage='DialogIQ' />
 			</HeaderLeft>
 			<HeaderRight>
 				<DefaultHeaderRightCommon />

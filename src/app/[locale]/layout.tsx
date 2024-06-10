@@ -27,7 +27,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-	title: 'ProtonX AI Demonstrations',
+	title: 'DialogIQ AI Demonstrations',
 	description: 'Advanced AI Technologies',
 };
 

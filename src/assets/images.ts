@@ -1,3 +1,5 @@
+export { default as LightLogoDialog } from './logo/dialogiq-nbgl.png'
+export { default as DarkLogoDialog } from './logo/dialog-nbgd.png'
 export { default as Image1 } from './alex-motoc-0POwK6iAiRQ-unsplash.jpg';
 export { default as Image1Thumb } from './alex-motoc-0POwK6iAiRQ-unsplash-thumb.jpg';
 export { default as Image2 } from './c-d-x-PDX_a_82obo-unsplash.jpg';
